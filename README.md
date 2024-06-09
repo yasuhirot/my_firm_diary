@@ -9,3 +9,4 @@
 2024/06/09
 - [FullCalendarのStandard Bundle](https://fullcalendar.io/docs/initialize-globals)をインストール
 - FullCalendarの表示に成功 
+- 作業時間：2.5H
